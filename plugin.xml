@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="org.malves.dev.cordova.exitapp" version="1.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="org.malves-dev.cordova.exitapp" version="1.0.0">
    <name>ExitApp</name>
    <description>Implements navigator.app.exitApp on iOS </description>
    <license>Apache 2.0</license>
